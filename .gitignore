@@ -1,0 +1,18 @@
+# Files from dataset
+data/
+
+# Environments
+.venv/
+venv/
+
+# Generated files
+__pychache__/
+*.py[cod]
+.pytest_cache/
+
+#IDE & os files
+.DS_Store
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
